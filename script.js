@@ -19,4 +19,5 @@ console.log(--d);
 const isChecked=true 
 const isFalse=true
 const dada=false
-console.log(isChecked&&isFalse&&dada);
+console.log(isChecked||isFalse||dada);
+console.log( 2+2 !=5 );git 
